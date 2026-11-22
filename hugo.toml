@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "HALLCUIE'S WEBSITE"
-  copyright = "© 2025-2026 HALLCUIE"
+  copyright = "© 2025-2026 HALLCUIE | POWERED BY HUGO"
   dark = "auto"
   highlight = true
 
