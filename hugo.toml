@@ -9,9 +9,16 @@ pygmentsUseClasses = true
 
 [params]
   description = "HALLCUIE'S WEBSITE"
-  copyright = "© 2025-2026 HALLCUIE | POWERED BY HUGO"
+  copyright = "© 2025-2026 HALLCUIE"
   dark = "auto"
   highlight = true
+
+  [menu]
+    [[menu.main]]
+      identifier = "CREDITS"
+      name = "/CREDITS"
+      title = "CREDITS"
+      url = "/CREDITS/"
 
 [permalinks]
   posts = "/:title/"
