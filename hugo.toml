@@ -1,5 +1,5 @@
 baseURL = 'https://deryck2000.jp.eu.org/'
-locale = 'en-us'
+defaultContentLanguage = 'en'
 title = 'DERYCK2000.JP.EU.ORG'
 
 theme = "etch"
