@@ -3,7 +3,6 @@ locale = 'en-us'
 title = 'DERYCK2000.JP.EU.ORG'
 
 theme = "etch"
-locale = "en"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
