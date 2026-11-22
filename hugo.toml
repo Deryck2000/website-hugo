@@ -1,0 +1,25 @@
+baseURL = 'https://deryck2000.jp.eu.org/'
+locale = 'en-us'
+title = 'DERYCK2000.JP.EU.ORG'
+
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "HALLCUIE'S WEBSITE"
+  copyright = "© 2026 HALLCUIE"
+  dark = "auto"
+  highlight = true
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
